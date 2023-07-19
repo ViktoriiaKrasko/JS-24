@@ -16,7 +16,8 @@
     "7": "nodemon 7",
     "8": "nodemon 8",
     "9": "nodemon 9",
-    "10": "nodemon 10"
+    "10": "nodemon 10",
+    "start": "node lecture.js"
   },
   "repository": {
     "type": "git",
